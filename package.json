@@ -1,0 +1,21 @@
+{
+  "name": "backend-author-book",
+  "version": "1.0.0",
+  "description": "bookstore-api/\r ├── config/\r │   └── db.js             # MongoDB connection\r ├── controllers/\r │   ├── authorController.js\r │   └── bookController.js\r ├── middleware/\r │   ├── errorHandler.js\r │   └── validator.js\r ├── models/\r │   ├── Author.js\r │   └── Book.js\r ├── routes/\r │   ├── authorRoutes.js\r │   └── bookRoutes.js\r ├── swagger/\r │   └── swagger.js\r ├── .env                  # Environment variables\r ├── .gitignore\r ├── app.js                # Express app\r ├── package.json\r ├── README.md\r └── server.js             # Entry point",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/desivar/Backend-author-book.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/desivar/Backend-author-book/issues"
+  },
+  "homepage": "https://github.com/desivar/Backend-author-book#readme"
+}
